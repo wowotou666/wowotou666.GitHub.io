@@ -11,5 +11,7 @@ main:
     
   - title: "Travel"
     url: /travel/
-    
+
+  - title: "AFOL"
+    url: /afol/
 
