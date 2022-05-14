@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wentao Wu (吴文韬)"
+title                    : "Wentao Wu （吴文韬）"
 title_separator          : "-"
 name                     : &name "Wentao Wu"
 description              : &description "personal description"
@@ -84,12 +84,12 @@ author:
   avatar           : "profile.png"
   bio              : |
     Computer Science <br>
-    Undergraduate in University of Pittsburgh
+    Undergraduate at University of Pittsburgh
   location         : "Pittsburgh, PA, USA"
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "wew92@pitt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
