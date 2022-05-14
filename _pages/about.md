@@ -10,7 +10,7 @@ redirect_from:
 
 I am a senior undergraduate in Computer Science at [University of Pittsburgh](https://www.pitt.edu/), and I have the fortune to meet some wonderful friends and instructors here.
 
-This is my personal blog, where I post something that I think interesting, such as my travel photography work.
+This is my personal blog, where I display my academic progress and projects of computer science. Besides, I will post something that I think interesting, such as my capriccio and travel photography.
 
 News
 ======
