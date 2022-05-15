@@ -14,11 +14,11 @@
         {% endif %}
         alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
       {% endif %}
-      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
-      {% if s.text %}{{ s.text | markdownify }}{% endif %}
       <div>
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=7MXg2wWQj45qj9KpeecXGOUzHFQJAODlVoBnMF1Yti4"></script>
-        </div>
+      </div>
+      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
+      {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
     {% if page.sidebar.nav %}
       {% include nav_list nav=page.sidebar.nav %}
