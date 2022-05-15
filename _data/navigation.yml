@@ -7,7 +7,7 @@ main:
     url: /project/
 
   - title: "Diary"
-    url: /diary/
+    url: /year-archive/
     
   - title: "Travel"
     url: /travel/
