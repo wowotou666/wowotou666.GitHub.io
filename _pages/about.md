@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br/>
 
 I am a senior undergraduate in Computer Science at [University of Pittsburgh](https://www.pitt.edu/), and I have the fortune to meet some wonderful friends and instructors here.
 

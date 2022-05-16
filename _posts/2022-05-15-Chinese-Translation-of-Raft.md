@@ -1,7 +1,7 @@
 ---
 title: 'Chinese Translation of Raft'
 date: 2022-05-15
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2022/05/Chinese-Translation-of-Raft/
 tags:
   - Academic
 ---
