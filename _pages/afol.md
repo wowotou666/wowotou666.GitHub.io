@@ -9,10 +9,4 @@ From childhood, I've always been fascinated with creativity and become an [AFOL]
 
 This sense of accomplishment drives me to touch coding, which corresponds to hand-crafting the virtual world compared to bricks. 
 
-<script type="text/javascript">
-  var GOOG_FIXURL_LANG = 'en';
-  var GOOG_FIXURL_SITE = '{{ site.url }}'
-</script>
-<script type="text/javascript"
-  src="//linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
-</script>
+
