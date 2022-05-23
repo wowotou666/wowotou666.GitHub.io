@@ -7,7 +7,7 @@ tags:
 ---
 
 Many humans are successful, and many more are busy appearing to be successful. 
-Other than that I recommend <i> [The Chrysanthemum and the Sword](https://books.google.com/books/about/The_Chrysanthemum_and_the_Sword.html?id=R7NpvfYsmU0C) </i> by <i> Ruth Benedict </i>.
+Other than that I recommend [The Chrysanthemum and the Sword](https://books.google.com/books/about/The_Chrysanthemum_and_the_Sword.html?id=R7NpvfYsmU0C) by `Ruth Benedict`.
 
 add something in 2022
 ------
